@@ -1,0 +1,1525 @@
+[
+    {
+        "id": 1,
+        "timestamp": ["01/08/25", "9:30 PM"],
+        "sender": "Rohan Patel",
+        "message": "Just got home. Another insane quarter, and just checked my BP - high again. My Garmin has been screaming at me for weeks. Feeling completely drained and frustrated. This needs to be fixed.",
+        "attachment": {
+          "type": "image",
+          "url": "garmin_connect_unproductive_stress.png"
+        }
+      },
+      {
+        "id": 2,
+        "timestamp": ["01/08/25", "9:35 PM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "Hi Rohan, Ruby from Elyx here. Thank you for reaching out and for sending that through. We see the frustration, and that's exactly what we're here to help with. The first step is to get you onboarded with our strategy team. Would you be free for a 60-min call with Dr. Warren and Advik this Friday at 4 PM SGT?"
+      },
+      {
+        "id": 3,
+        "timestamp": ["01/09/25", "8:15 AM"],
+        "sender": "Rohan Patel",
+        "message": "Friday at 4 is fine for now. Let's lock it in."
+      },
+      {
+        "id": 4,
+        "timestamp": ["01/09/25", "9:00 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "Morning Rohan, Advik here. I'll be on the call Friday. To help us prepare, could you please grant us access to your Garmin Connect data? You should have an email with instructions. This will give us a huge head start on understanding the patterns behind what you're feeling."
+      },
+      {
+        "id": 5,
+        "timestamp": ["01/09/25", "12:20 PM"],
+        "sender": "Rohan Patel",
+        "message": "Done. Access granted."
+      },
+      {
+        "id": 6,
+        "timestamp": ["01/09/25", "10:10 PM"],
+        "sender": "Rohan Patel",
+        "message": "Long day. I'm just constantly tired. Not sure how I'm supposed to function like this."
+      },
+      {
+        "id": 7,
+        "timestamp": ["01/10/25", "9:05 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "Rohan, thanks for granting us Garmin access. I can see your Body Battery has been failing to recharge above 60 overnight for the past two weeks, and your average RHR is 68bpm. This aligns with what you're feeling and gives us a clear first metric to improve."
+      },
+      {
+        "id": 8,
+        "timestamp": ["01/10/25", "9:15 AM"],
+        "sender": "Rohan Patel",
+        "message": "What’s a good RHR? Is 68 dangerous?"
+      },
+      {
+        "id": 9,
+        "timestamp": ["01/10/25", "9:40 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "It's not in a danger zone, but it's higher than optimal for recovery, likely driven by stress and other factors we'll uncover. Our goal will be to bring it down gradually into the low 60s or high 50s. That will make a big difference to your daily energy levels."
+      },
+      {
+        "id": 10,
+        "timestamp": ["01/10/25", "3:45 PM"],
+        "sender": "Rohan Patel",
+        "message": "Ruby, something's come up. An urgent work fire I have to deal with. I can't make the 4 PM call today. We'll have to reschedule."
+      },
+      {
+        "id": 11,
+        "timestamp": ["01/10/25", "3:48 PM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "No problem at all, Rohan. We understand completely. Let's find another time. How does Tuesday next week at 5 PM look?"
+      },
+      {
+        "id": 12,
+        "timestamp": ["01/10/25", "3:50 PM"],
+        "sender": "Rohan Patel",
+        "message": "Let's pencil it in. Hopefully no fires."
+      },
+      {
+        "id": 13,
+        "timestamp": ["01/11/25", "7:30 PM"],
+        "sender": "Rohan Patel",
+        "message": "Team, I've been reading about CoQ10 for blood pressure, should I be taking it?"
+      },
+      {
+        "id": 14,
+        "timestamp": ["01/12/25", "10:00 AM"],
+        "sender": "Dr. Warren (Elyx Medical Strategist)",
+        "message": "Good question, Rohan. CoQ10 does have some evidence supporting its use for hypertension. However, our protocol is to never supplement blindly. Let's wait for your comprehensive blood panel in March. The results will tell us exactly what your body needs, if anything. For now, let's focus on foundational changes."
+      },
+      {
+        "id": 15,
+        "timestamp": ["01/13/25", "11:00 AM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Good morning Rohan, Carla here, your nutritionist. To start building your personalized nutrition strategy, could you please log everything you eat for the next 3 days in MyFitnessPal? It will give us a fantastic baseline for our call."
+      },
+      {
+        "id": 16,
+        "timestamp": ["01/13/25", "8:45 PM"],
+        "sender": "Rohan Patel",
+        "message": "Been reading about intermittent fasting. A colleague of mine swears by it for focus. Should I be skipping breakfast?"
+      },
+      {
+        "id": 17,
+        "timestamp": ["01/14/25", "9:00 AM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Another great topic, Rohan. IF can be a powerful tool, but it can also raise cortisol (a stress hormone) if not implemented correctly, especially when your body is already under significant stress. Let's get a handle on *what* you're eating first before we play with *when* you're eating."
+      },
+      {
+        "id": 18,
+        "timestamp": ["01/14/25", "5:55 PM"],
+        "sender": "Rohan Patel",
+        "message": "Ruby, sorry again, but Tuesday at 5 isn't going to work either. A client dinner just got moved. This quarter-end is brutal."
+      },
+      {
+        "id": 19,
+        "timestamp": ["01/14/25", "6:00 PM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "These things happen, Rohan. Let's try a different approach. The team is flexible. Why don't you let us know 2-3 slots that are 'fire-proof' for you next week, and we'll make it work on our end."
+      },
+      {
+        "id": 20,
+        "timestamp": ["01/14/25", "6:30 PM"],
+        "sender": "Rohan Patel",
+        "message": "Carla, look, I appreciate the thought but that's not going to happen. I was in back-to-back meetings all day, I don't have time to weigh my food and log it."
+      },
+      {
+        "id": 21,
+        "timestamp": ["01/14/25", "6:40 PM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Completely understand, Rohan. Apologies, we should have anticipated that. Let's make it easier. For the next few days, just text me a photo of your meals before you eat them. No weighing, no logging. Does that work?"
+      },
+      {
+        "id": 22,
+        "timestamp": ["01/14/25", "6:41 PM"],
+        "sender": "Rohan Patel",
+        "message": "Yes, I can do that. Fine."
+      },
+      {
+        "id": 23,
+        "timestamp": ["01/15/25", "1:10 PM"],
+        "sender": "Rohan Patel",
+        "message": "",
+        "attachment": {
+            "type": "image",
+            "url": "chicken_rice_lunch.png"
+        }
+      },
+      {
+        "id": 24,
+        "timestamp": ["01/15/25", "1:15 PM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Got it, thanks Rohan! We can definitely work with this."
+      },
+      {
+        "id": 25,
+        "timestamp": ["01/15/25", "8:15 PM"],
+        "sender": "Rohan Patel",
+        "message": "What's the team's view on ashwagandha for managing work stress?"
+      },
+      {
+        "id": 26,
+        "timestamp": ["01/16/25", "9:25 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "Rohan, ashwagandha is an interesting adaptogen with some promising data on stress perception. However, it can be a bandage, not a fix. Our view is to first address the root causes of the physiological stress we're seeing in your Garmin data—sleep quality, recovery, nutrition—before adding variables like supplements."
+      },
+      {
+        "id": 27,
+        "timestamp": ["01/17/25", "10:30 PM"],
+        "sender": "Rohan Patel",
+        "message": "My sleep score on Garmin was 55 last night. Red. It says lack of deep sleep. How do I fix that?"
+      },
+      {
+        "id": 28,
+        "timestamp": ["01/18/25", "9:00 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "I saw that score come through. That's a key piece of the puzzle. Deep sleep is crucial for physical repair. A common culprit is late-evening eating or alcohol, which keeps your system 'working' when it should be resting. Another is light exposure before bed. We'll build a simple pre-sleep routine for you after our call."
+      },
+      {
+        "id": 29,
+        "timestamp": ["01/19/25", "11:45 AM"],
+        "sender": "Rohan Patel",
+        "message": "Ruby, let's try for the call on Monday the 27th at 4pm. My calendar looks clear then."
+      },
+      {
+        "id": 30,
+        "timestamp": ["01/19/25", "11:50 AM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "Excellent. I've booked it in with Dr. Warren and Advik. You'll see the invite shortly. Looking forward to it!"
+      },
+      {
+        "id": 31,
+        "timestamp": ["01/21/25", "9:20 PM"],
+        "sender": "Rohan Patel",
+        "message": "I'm reading about the benefits of saunas for cardiovascular health and lowering blood pressure. Is this something I should be doing?"
+      },
+      {
+        "id": 32,
+        "timestamp": ["01/22/25", "9:15 AM"],
+        "sender": "Dr. Warren (Elyx Medical Strategist)",
+        "message": "The data on sauna use, particularly from Finnish studies, is very strong, Rohan. It's something we often recommend down the line. Similar to cold therapy, it's a form of hormetic stress. Let's get your baseline health markers stabilized first, then we can layer in potent tools like this strategically."
+      },
+      {
+        "id": 33,
+        "timestamp": ["01/24/25", "11:10 AM"],
+        "sender": "Rohan Patel",
+        "message": "Is there anything I need to prepare for the call on Monday? Any documents I should have ready?"
+      },
+      {
+        "id": 34,
+        "timestamp": ["01/24/25", "11:15 AM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "Hi Rohan, no preparation needed from your side. Dr. Warren and Advik have been analyzing your initial questionnaire and the Garmin data. The main goal of the call is for us to listen, understand your context more deeply, and explain our initial strategic approach."
+      },
+      {
+        "id": 35,
+        "timestamp": ["01/26/25", "6:50 PM"],
+        "sender": "Rohan Patel",
+        "message": "Is magnesium a good idea for sleep? My friend takes it."
+      },
+      {
+        "id": 36,
+        "timestamp": ["01/27/25", "8:50 AM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Morning Rohan. Magnesium, especially in the glycinate or threonate forms, can be very effective for sleep quality for many people. It's one of the few supplements we might consider earlier on. Let's discuss it on the call today as a potential quick win."
+      },
+      {
+        "id": 37,
+        "timestamp": ["01/27/25", "5:05 PM"],
+        "sender": "Neel (Elyx Concierge Lead)",
+        "message": "Rohan, Neel here. It was great to join the end of your call with Dr. Warren and Advik. I hope it provided a clear picture of our approach."
+      },
+      {
+        "id": 38,
+        "timestamp": ["01/27/25", "5:10 PM"],
+        "sender": "Dr. Warren (Elyx Medical Strategist)",
+        "message": "Great to finally connect, Rohan. As we discussed, our goal isn't just to add years to your life, but life to your years. The average life expectancy here in Singapore is nearly 84 years. Our mission is to ensure your *healthspan*—your period of high-quality, healthy life—matches that lifespan. The data from your Garmin and future diagnostics will be our guide."
+      },
+      {
+        "id": 39,
+        "timestamp": ["01/27/25", "5:15 PM"],
+        "sender": "Rohan Patel",
+        "message": "The call was useful. It's a lot to take in. I appreciate the healthspan concept. Makes sense."
+      },
+      {
+        "id": 40,
+        "timestamp": ["01/27/25", "5:30 PM"],
+        "sender": "Rachel (Elyx PT)",
+        "message": "Hi Rohan, Rachel here, your PT. Following up from the call, I won't be assigning any intense workouts just yet. Instead, I'll be sending a 5-minute morning mobility routine to your Trainerize app. It's designed to be done before you even have your coffee, just to get the body moving and offset some of the stiffness from sitting."
+      },
+      {
+        "id": 41,
+        "timestamp": ["01/28/25", "8:10 AM"],
+        "sender": "Rohan Patel",
+        "message": "Rachel, I did the 5 minute thing. It was fine. Surprisingly felt ok."
+      },
+      {
+        "id": 42,
+        "timestamp": ["01/28/25", "8:15 AM"],
+        "sender": "Rachel (Elyx PT)",
+        "message": "That's the perfect response! Thanks for the feedback. Let's just stick with that this week. Consistency over intensity is win number one."
+      },
+      {
+        "id": 43,
+        "timestamp": ["01/28/25", "9:50 PM"],
+        "sender": "Rohan Patel",
+        "message": "The call was useful. It's a lot to take in. I saw a podcast about cold plunges for HRV, should I start doing that?"
+      },
+      {
+        "id": 44,
+        "timestamp": ["01/29/25", "9:10 AM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "Let's hold off on the cold plunges for now. While they can be a powerful tool for some, introducing an intense new stressor right now might be counterproductive. Your HRV is currently averaging in the low 30s; our first goal is to get that into the 40s with better sleep and stress management. Then we can explore more advanced protocols like that."
+      },
+      {
+        "id": 45,
+        "timestamp": ["01/29/25", "9:12 AM"],
+        "sender": "Rohan Patel",
+        "message": "Understood. Foundations first."
+      },
+      {
+        "id": 46,
+        "timestamp": ["01/29/25", "7:45 PM"],
+        "sender": "Rohan Patel",
+        "message": "Carla, here's dinner.",
+        "attachment": {
+            "type": "image",
+            "url": "steak_and_salad.png"
+        }
+      },
+      {
+        "id": 47,
+        "timestamp": ["01/29/25", "7:50 PM"],
+        "sender": "Carla (Elyx Nutritionist)",
+        "message": "Looks great, Rohan. Excellent protein source and greens. Perfect."
+      },
+      {
+        "id": 48,
+        "timestamp": ["01/30/25", "4:00 PM"],
+        "sender": "Ruby (Elyx Concierge)",
+        "message": "Hi Rohan, just confirming everything is set up following your call. Your first comprehensive diagnostic blood panel is officially scheduled for Saturday, March 1st, at 8:00 AM. We'll send a reminder closer to the date. Have a great rest of the week!"
+      },
+      {
+        "id": 49,
+        "timestamp": ["01/30/25", "4:01 PM"],
+        "sender": "Rohan Patel",
+        "message": "Confirmed. Thanks, Ruby."
+      },
+      {
+        "id": 50,
+        "timestamp": ["01/31/25", "10:15 PM"],
+        "sender": "Rohan Patel",
+        "message": "Just looking at my Garmin stress graph for the week. It’s a sea of orange. The call made me hopeful but seeing the data is still daunting."
+      },
+      {
+        "id": 51,
+        "timestamp": ["01/31/25", "10:25 PM"],
+        "sender": "Advik (Elyx Performance Scientist)",
+        "message": "That's a very normal feeling, Rohan. Acknowledging the data is the first step to changing it. Think of it as our 'before' picture. Every small change we make—the mobility, the nutrition tweaks, the sleep hygiene—will start to add flecks of blue to that sea of orange. It's a process. Trust it. We've got your back."
+      },
+      {
+        "id": 52,
+        "timestamp": "02/01/25 09:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, based on our call, our initial Q1 goal is to lower your average resting heart rate by 5 bpm, which we'll track daily via your Garmin, and to stabilize your blood pressure."
+      },
+      {
+        "id": 53,
+        "timestamp": "02/02/25 10:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Thanks, Dr. Warren. That sounds like a solid target. How quickly should I expect to see progress?"
+      },
+      {
+        "id": 54,
+        "timestamp": "02/02/25 11:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Typically, if we optimize your recovery and stress management, changes can be seen within 4-6 weeks. We'll monitor closely."
+      },
+      {
+        "id": 55,
+        "timestamp": "02/03/25 08:00 AM",
+        "sender": "Rachel",
+        "message": "Good morning Rohan, I've prescribed a 15-minute foundational mobility routine in Trainerize. Please try to fit this in your mornings."
+      },
+      {
+        "id": 56,
+        "timestamp": "02/06/25 07:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Rachel, I see the mobility routine. My mornings are packed with pre-market calls to the US. I don't have a spare 15 minutes."
+      },
+      {
+        "id": 57,
+        "timestamp": "02/07/25 09:00 AM",
+        "sender": "Rachel",
+        "message": "Thanks for letting me know. I'll create a 5-minute desk routine video you can do between calls and upload it shortly."
+      },
+      {
+        "id": 58,
+        "timestamp": "02/08/25 10:00 AM",
+        "sender": "Rachel",
+        "message": "Rohan, I've uploaded a 5-minute desk mobility routine video to Trainerize. Let me know if you can fit this into your day."
+      },
+      {
+        "id": 59,
+        "timestamp": "02/10/25 08:00 AM",
+        "sender": "Advik",
+        "message": "Rohan, I'm seeing your HRV dip and sleep duration drop below 6 hours during your US trip, which is expected due to the timezone shift. No worries, this is just data."
+      },
+      {
+        "id": 60,
+        "timestamp": "02/10/25 08:00 AM",
+        "sender": "Advik",
+        "message": "Focus today on 10 minutes of morning sunlight exposure and hitting your hydration target to reset your circadian clock faster."
+      },
+      {
+        "id": 61,
+        "timestamp": "02/12/25 12:00 PM",
+        "sender": "Rohan Patel",
+        "message": "I've been researching the DASH diet for hypertension. Is Carla building something like this for my nutrition plan?"
+      },
+      {
+        "id": 62,
+        "timestamp": "02/12/25 01:00 PM",
+        "sender": "Carla",
+        "message": "Yes, Rohan. Your nutrition plan is influenced by DASH principles, tailored to your preferences and CGM data."
+      },
+      {
+        "id": 63,
+        "timestamp": "02/13/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "My friend is taking potassium supplements for his blood pressure. Should I start taking one too?"
+      },
+      {
+        "id": 64,
+        "timestamp": "02/13/25 11:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Potassium can be helpful for some. We'll review your blood tests before recommendations to ensure safety and effectiveness."
+      },
+      {
+        "id": 65,
+        "timestamp": "02/14/25 03:00 PM",
+        "sender": "Ruby",
+        "message": "Rohan, we're scheduling your blood panel for March. Here's an outline of the key tests: ApoB, Lp(a), and hs-CRP. Let me know if you have any questions."
+      },
+      {
+        "id": 66,
+        "timestamp": "02/17/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I'm struggling to keep up with the mobility even with the desk routine. Any advice?"
+      },
+      {
+        "id": 67,
+        "timestamp": "02/18/25 09:00 AM",
+        "sender": "Rachel",
+        "message": "Try breaking it into 2-3 sessions of 2-3 minutes between your calls. Consistency is better than duration here."
+      },
+      {
+        "id": 68,
+        "timestamp": "02/18/25 08:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Will try. Also, I'm noticing my resting heart rate is fluctuating quite a bit during travel days."
+      },
+      {
+        "id": 69,
+        "timestamp": "02/19/25 10:00 AM",
+        "sender": "Advik",
+        "message": "Fluctuations during travel are normal. Stress and circadian disruption impact your readings. Keeping hydrated and sunlight exposure helps."
+      },
+      {
+        "id": 70,
+        "timestamp": "02/19/25 06:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Makes sense. Is there a way to measure stress impact more precisely?"
+      },
+      {
+        "id": 71,
+        "timestamp": "02/20/25 07:00 AM",
+        "sender": "Advik",
+        "message": "We track HRV trends which reflect autonomic nervous system balance. I'll share a weekly summary so you can see patterns."
+      },
+      {
+        "id": 72,
+        "timestamp": "02/21/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Thanks, raising one more question: How does alcohol affect my blood pressure within this program?"
+      },
+      {
+        "id": 73,
+        "timestamp": "02/21/25 10:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Alcohol can raise blood pressure if consumed in excess. Moderation is key, and we can assess your intake during reviews."
+      },
+      {
+        "id": 74,
+        "timestamp": "02/22/25 08:00 AM",
+        "sender": "Ruby",
+        "message": "Hi Rohan, just a reminder for your morning hydration target and mobility session. Small steps are progress."
+      },
+      {
+        "id": 75,
+        "timestamp": "02/24/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Noticed my sleep quality dipped last night. Could that impact my blood pressure?"
+      },
+      {
+        "id": 76,
+        "timestamp": "02/24/25 08:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Yes, poor sleep increases sympathetic nervous system activity, impacting blood pressure and HRV. Prioritize rest where possible."
+      },
+      {
+        "id": 77,
+        "timestamp": "02/25/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Is it okay to do mobility routines after work, even if I miss mornings?"
+      },
+      {
+        "id": 78,
+        "timestamp": "02/25/25 09:00 AM",
+        "sender": "Rachel",
+        "message": "Absolutely, Rohan. Consistency matters more than timing. Evening sessions are fine if mornings are tough."
+      },
+      {
+        "id": 79,
+        "timestamp": "02/26/25 08:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Reviewing the CGM data, I see small glucose spikes post lunch. Any concerns?"
+      },
+      {
+        "id": 80,
+        "timestamp": "02/27/25 10:00 AM",
+        "sender": "Carla",
+        "message": "Minor glucose spikes are normal but avoiding heavy carbs and fast sugars post-lunch can help maintain stable blood pressure."
+      },
+      {
+        "id": 81,
+        "timestamp": "02/27/25 10:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Got it. Will adjust lunch choices accordingly."
+      },
+      {
+        "id": 82,
+        "timestamp": "02/28/25 08:00 AM",
+        "sender": "Neel",
+        "message": "Rohan, focusing on aligning your healthspan with your expected lifespan can empower your career longevity. Let's keep tracking your key metrics."
+      },
+      {
+        "id": 83,
+        "timestamp": "02/28/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Appreciate that, Neel. Balancing this with work stress is the challenge."
+      },
+      {
+        "id": 84,
+        "timestamp": "02/28/25 09:00 PM",
+        "sender": "Ruby",
+        "message": "I'll confirm your March bloodwork appointment next week. Meanwhile, keep hydrated and note any symptoms you observe."
+      },
+      {
+        "id": 85,
+        "timestamp": "02/28/25 10:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Thanks, Ruby. Will do. Curious about ApoB and hs-CRP tests you mentioned."
+      },
+      {
+        "id": 86,
+        "timestamp": "02/28/25 10:00 PM",
+        "sender": "Ruby",
+        "message": "Happy to explain those anytime, Rohan. They help us assess cardiovascular risk and inflammation."
+      },
+      {
+        "id": 87,
+        "timestamp": "02/28/25 11:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Good to know. Looking forward to the results."
+      },
+      {
+        "id": 88,
+        "timestamp": "02/28/25 11:00 PM",
+        "sender": "Dr. Warren",
+        "message": "Excellent progress, Rohan. Let's keep up the momentum into March."
+      },
+      {
+        "id": 89,
+        "timestamp": "02/03/25, 9:00 am",
+        "sender": "Dr. Warren",
+        "message": "Rohan, report attached. The good news is your blood pressure is showing early signs of stabilizing. However, we need to talk about your ApoB result. It's 130 mg/dL, which is significantly elevated and is now our primary focus for cardiovascular risk reduction.",
+        "attachment": "blood_panel_report_mar2025.pdf"
+      },
+      {
+        "id": 90,
+        "timestamp": "02/03/25, 9:05 am",
+        "sender": "Rohan Patel",
+        "message": "130? Everything I'm reading says that's terrible. Is my current diet making things worse? Do I need to be on a statin right now?"
+      },
+      {
+        "id": 91,
+        "timestamp": "02/03/25, 9:15 am",
+        "sender": "Neel",
+        "message": "Rohan, I understand that number is concerning. Think of it this way: we would never have known this with a standard health screening. This is exactly why you're with us. This is just a data point, and now we can build a precise, aggressive strategy to target it. This is how we ensure your healthspan matches your lifespan."
+      },
+      {
+        "id": 92,
+        "timestamp": "02/03/25, 9:25 am",
+        "sender": "Dr. Warren",
+        "message": "No need to panic or rush to medication yet. We'll target ApoB with dietary and lifestyle interventions first, then reassess with follow-up tests. Statins are one option, but only if necessary."
+      },
+      {
+        "id": 93,
+        "timestamp": "02/03/25, 10:05 am",
+        "sender": "Rohan Patel",
+        "message": "How quickly can ApoB numbers improve without meds? Is my risk higher because of my family history?"
+      },
+      {
+        "id": 94,
+        "timestamp": "02/03/25, 10:15 am",
+        "sender": "Dr. Warren",
+        "message": "ApoB can start reducing in 4-12 weeks with strict nutrition, regular movement, and smart routines. Family history is part of your risk, so our approach needs to be strong but safe."
+      },
+      {
+        "id": 95,
+        "timestamp": "03/03/25, 8:00 pm",
+        "sender": "Rohan Patel",
+        "message": "I've started reading about soluble fiber vs. statins. Is fiber genuinely that effective for ApoB and cholesterol?"
+      },
+      {
+        "id": 96,
+        "timestamp": "03/03/25, 8:45 pm",
+        "sender": "Carla",
+        "message": "Soluble fiber helps lower LDL and ApoB, especially when you reach about 25grams a day. Statins are more potent, but let's give nutrition, exercise, and sleep a chance first and monitor closely."
+      },
+      {
+        "id": 97,
+        "timestamp": "04/03/25, 09:15 am",
+        "sender": "Rachel",
+        "message": "Rohan, I've updated your Trainerize routine to include more daily movement goals, which will help both blood pressure and ApoB. Let me know if it fits your schedule."
+      },
+      {
+        "id": 98,
+        "timestamp": "05/03/25, 09:05 am",
+        "sender": "Rohan Patel",
+        "message": "I've barely managed my steps this week—work is crushing me. I may have to compromise on physio again."
+      },
+      {
+        "id": 99,
+        "timestamp": "05/03/25, 09:15 am",
+        "sender": "Rachel",
+        "message": "Understandable, Rohan. Even short walks between meetings/counts. Wear your Garmin all day—we can analyze opportunistic movement."
+      },
+      {
+        "id": 100,
+        "timestamp": "05/03/25, 07:30 pm",
+        "sender": "Rohan Patel",
+        "message": "Leaving for Jakarta tomorrow. How strict do I need to be with meals? Literally everything is noodles or pastries."
+      },
+      {
+        "id": 101,
+        "timestamp": "05/03/25, 07:45 pm",
+        "sender": "Carla",
+        "message": "In Jakarta, focus on eggs, fish, and any green vegetables you can find. Skip the pastries and rice for this week. We can get back on the perfect plan once you're home."
+      },
+      {
+        "id": 102,
+        "timestamp": "07/03/25, 06:30 am",
+        "sender": "Rohan Patel",
+        "message": "How much is occasional cheating going to set me back? Hotel breakfast was a disaster today."
+      },
+      {
+        "id": 103,
+        "timestamp": "07/03/25, 08:00 am",
+        "sender": "Carla",
+        "message": "Small slips are normal but repeated high saturated fat intake can impact ApoB and overall recovery. Do your best—focus on greens, eggs, and avoiding processed carbs."
+      },
+      {
+        "id": 104,
+        "timestamp": "08/03/25, 06:30 am",
+        "sender": "Advik",
+        "message": "Rohan, notice the link: on days your MyFitnessPal logs show higher saturated fat intake, your Whoop data indicates suppressed HRV the next morning. Your body reacts to these choices quickly."
+      },
+      {
+        "id": 105,
+        "timestamp": "09/03/25, 08:40 pm",
+        "sender": "Rohan Patel",
+        "message": "That's fascinating—and worrying. Is it reversible, or are these effects building up long-term?"
+      },
+      {
+        "id": 106,
+        "timestamp": "09/03/25, 09:05 pm",
+        "sender": "Advik",
+        "message": "Suppressed HRV from poor choices can rebound with better sleep, movement, and diet. Chronic poor choices make the pattern persistent, but it's not irreversible!"
+      },
+      {
+        "id": 107,
+        "timestamp": "11/03/25, 08:00 am",
+        "sender": "Rohan Patel",
+        "message": "What’s the single biggest thing I can do starting this week to drive ApoB down fastest? Cutting all meat?"
+      },
+      {
+        "id": 108,
+        "timestamp": "11/03/25, 09:30 am",
+        "sender": "Carla",
+        "message": "Going completely meat-free isn't necessary, but reducing red and processed meats and adding more soluble fiber (veggies, oats, beans) will help drop ApoB fastest."
+      },
+      {
+        "id": 109,
+        "timestamp": "12/03/25, 09:00 pm",
+        "sender": "Rohan Patel",
+        "message": "Are there specific green veggies that are more potent for ApoB or just more fiber?"
+      },
+      {
+        "id": 110,
+        "timestamp": "12/03/25, 09:25 pm",
+        "sender": "Carla",
+        "message": "Leafy greens (spinach, kale, broccoli) are excellent for both ApoB and blood pressure. Focus on diversity and quantity for maximal effect."
+      },
+      {
+        "id": 111,
+        "timestamp": "15/03/25, 07:25 am",
+        "sender": "Rohan Patel",
+        "message": "Can I add a fiber supplement to help my numbers, since travel means lots of restaurant food?"
+      },
+      {
+        "id": 112,
+        "timestamp": "15/03/25, 08:10 am",
+        "sender": "Carla",
+        "message": "Yes, a soluble fiber supplement (psyllium, inulin) can help if food options are limited. We'll monitor your data and adjust as needed."
+      },
+      {
+        "id": 113,
+        "timestamp": "17/03/25, 08:50 am",
+        "sender": "Rohan Patel",
+        "message": "Any evidence that supplements alone move ApoB significantly? Or is this just a stopgap?"
+      },
+      {
+        "id": 114,
+        "timestamp": "17/03/25, 09:10 am",
+        "sender": "Dr. Warren",
+        "message": "Supplements help but aren't a substitute for integrated nutrition and movement. Think of them as a partial boost and not a replacement."
+      },
+      {
+        "id": 115,
+        "timestamp": "17/03/25, 08:00 pm",
+        "sender": "Neel",
+        "message": "Rohan, this is the data-driven advantage of Elyx. We're catching risks early and tailoring interventions—this is how you match your healthspan to Singapore's exceptional lifespan."
+      },
+      {
+        "id": 116,
+        "timestamp": "19/03/25, 07:00 am",
+        "sender": "Advik",
+        "message": "Update: Your Garmin data shows improved recovery scores after 2 consecutive fiber-rich days. Keep logging your meals and we'll refine the plan stepwise."
+      },
+      {
+        "id": 117,
+        "timestamp": "19/03/25, 08:30 am",
+        "sender": "Rohan Patel",
+        "message": "Good to see some results finally. Appreciate the explanation—helps manage my anxiety."
+      },
+      {
+        "id": 118,
+        "timestamp": "21/03/25, 07:45 am",
+        "sender": "Ruby",
+        "message": "Rohan, I'll be arranging your next review call with Dr. Warren. Expect a WhatsApp invite soon for us to go over your blood panel and ApoB strategy."
+      },
+      {
+        "id": 119,
+        "timestamp": "22/03/25, 07:00 am",
+        "sender": "Rohan Patel",
+        "message": "Great, Ruby. Please send me a summary of questions I should consider before the call. Will bring my own, too."
+      },
+      {
+        "id": 120,
+        "timestamp": "22/03/25, 07:30 am",
+        "sender": "Ruby",
+        "message": "Will do! Sending you a checklist of topics: diet updates, medication queries, travel plans, and any data concerns you want addressed."
+      },
+
+      {
+        "id": 121,
+        "timestamp": "04/02/25 08:30 AM",
+        "sender": "Advik",
+        "message": "Rohan, we've shipped you a Whoop strap for more granular HRV and sleep tracking. Ruby will coordinate your VO2 Max test this week."
+      },
+      {
+        "id": 122,
+        "timestamp": "04/02/25 09:00 AM",
+        "sender": "Ruby",
+        "message": "Hi Rohan, your VO2 Max test is scheduled for Thursday at 7:30am at CardioClinic Orchard. Let me know if you need to reschedule.",
+        "attachment": "VO2_max_appointment_apr2025.ics"
+      },
+      {
+        "id": 123,
+        "timestamp": "04/03/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Why Whoop and not Oura? I've read a lot about the Oura ring—does it measure HRV less accurately? Should I double up?"
+      },
+      {
+        "id": 124,
+        "timestamp": "04/03/25 08:30 AM",
+        "sender": "Advik",
+        "message": "Great question, Rohan. Whoop is validated for accurate, continuous HRV and sleep staging, with real-time recovery metrics. Oura's excellent, but for dynamic coaching, Whoop’s daily readiness data is more actionable."
+      },
+      {
+        "id": 125,
+        "timestamp": "04/04/25 06:45 AM",
+        "sender": "Ruby",
+        "message": "Good morning! Your Whoop is out for delivery today. Ready to guide you through setup whenever you're free."
+      },
+      {
+        "id": 126,
+        "timestamp": "04/05/25 05:15 PM",
+        "sender": "Rohan Patel",
+        "message": "VO2 Max result is 41. That’s 'good' for my age, apparently. Does this actually mean I’m less at risk, even with high ApoB?"
+      },
+      {
+        "id": 127,
+        "timestamp": "04/05/25 06:00 PM",
+        "sender": "Dr. Warren",
+        "message": "A good VO2 Max is protective but doesn't cancel out lipid risk. Think of it as a positive—but ApoB still needs direct and ongoing attention."
+      },
+      {
+        "id": 128,
+        "timestamp": "04/06/25 08:00 AM",
+        "sender": "Advik",
+        "message": "With your VO2 Max, we can set a precise Zone 2 cardio target: 125-135 bpm for 45 mins, 3x/week. This builds your aerobic base and helps lower BP and ApoB."
+      },
+      {
+        "id": 129,
+        "timestamp": "04/07/25 08:15 PM",
+        "sender": "Rohan Patel",
+        "message": "Did my first cardio. Honestly, Zone 2 felt easy so I picked up the pace in the last 20 minutes."
+      },
+      {
+        "id": 130,
+        "timestamp": "04/07/25 08:50 PM",
+        "sender": "Advik",
+        "message": "Rohan, I analyzed the HR data from your Garmin. You spent nearly 15 minutes in Zone 4. While it feels productive, for our goal of building an aerobic base to improve mitochondrial function and lower BP, it's crucial we stay in Zone 2. Can we try to keep the next run strictly within the target zone?"
+      },
+      {
+        "id": 131,
+        "timestamp": "04/08/25 07:00 AM",
+        "sender": "Neel",
+        "message": "Rohan, it’s common for high-achievers to want to push, but Zone 2 is a different kind of work. Sticking to target zones is one of the best things you can do for long-term healthspan."
+      },
+      {
+        "id": 132,
+        "timestamp": "04/08/25 01:30 PM",
+        "sender": "Rohan Patel",
+        "message": "Woke up after first night with Whoop—recovery is in the red at 22%, but I feel fine. What gives?"
+      },
+      {
+        "id": 133,
+        "timestamp": "04/08/25 01:50 PM",
+        "sender": "Advik",
+        "message": "Your subjective feeling is important, but the objective data shows a high RHR and low HRV. This is your nervous system telling us it's under strain, likely from cumulative work stress. It's a leading indicator; make today an active recovery day to prevent a crash."
+      },
+      {
+        "id": 134,
+        "timestamp": "04/09/25 08:10 AM",
+        "sender": "Rohan Patel",
+        "message": "So is it better to skip a workout completely when my recovery is low, or just do something easy?"
+      },
+      {
+        "id": 135,
+        "timestamp": "04/09/25 08:45 AM",
+        "sender": "Advik",
+        "message": "Best to opt for a light walk, yoga, or mobility work instead of intense cardio or weights. That allows your body to bounce back faster."
+      },
+      {
+        "id": 136,
+        "timestamp": "04/11/25 08:20 PM",
+        "sender": "Rohan Patel",
+        "message": "I'm seeing a lot of influencer guides about 'biohacking' high HRV with cold plunges and supplements. Worth it?"
+      },
+      {
+        "id": 137,
+        "timestamp": "04/11/25 08:40 PM",
+        "sender": "Advik",
+        "message": "Some cold exposure can help, but the key drivers for HRV are restorative sleep, aerobic exercise, and stress management. Let’s focus on those first."
+      },
+      {
+        "id": 138,
+        "timestamp": "04/13/25 11:00 AM",
+        "sender": "Rachel",
+        "message": "Rohan, how’s the new routine with mobility and Zone 2 cardio fitting alongside your schedule?"
+      },
+      {
+        "id": 139,
+        "timestamp": "04/13/25 11:20 AM",
+        "sender": "Rohan Patel",
+        "message": "Sporadic. So many deal calls this month. I skip more workouts than I’d like."
+      },
+      {
+        "id": 140,
+        "timestamp": "04/13/25 12:00 PM",
+        "sender": "Rachel",
+        "message": "Even 5-10 minutes is meaningful progress. Do what you can when you can—it all counts."
+      },
+      {
+        "id": 141,
+        "timestamp": "04/15/25 09:00 AM",
+        "sender": "Carla",
+        "message": "Rohan, MyFitnessPal logs show <5g fiber/day this week, mostly from takeout. Can you try adding one serving of beans or greens to lunch?"
+      },
+      {
+        "id": 142,
+        "timestamp": "04/16/25 07:45 AM",
+        "sender": "Rohan Patel",
+        "message": "Are there quick wins for fiber intake when traveling? I have meetings in Manila next week."
+      },
+      {
+        "id": 143,
+        "timestamp": "04/16/25 08:10 AM",
+        "sender": "Carla",
+        "message": "Look for vegetable dishes, lentil soups, and fruit at the hotel breakfast. Bring fiber sachets if possible for portable backup."
+      },
+
+      {
+        "id": 144,
+        "timestamp": "06/02/25 09:00 AM",
+        "sender": "Ruby",
+        "message": "Good morning Rohan. It's time for your second quarterly blood panel. I've scheduled you for this Thursday at 8am. Does that work?"
+      },
+      {
+        "id": 145,
+        "timestamp": "06/02/25 09:05 AM",
+        "sender": "Rohan Patel",
+        "message": "Thursday is perfect. What are we hoping to see this time? Honestly, a bit nervous given the last results."
+      },
+      {
+        "id": 146,
+        "timestamp": "06/02/25 09:15 AM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, based on your consistent effort with nutrition and Zone 2 cardio, we are optimistic we'll see a significant improvement in your ApoB and hs-CRP levels. The goal is progress, not perfection."
+      },
+      {
+        "id": 147,
+        "timestamp": "06/05/25 10:00 AM",
+        "sender": "Ruby",
+        "message": "Hi Rohan, we've just received your blood panel results from the lab. Dr. Warren is reviewing them now and will be in touch shortly."
+      },
+      {
+        "id": 148,
+        "timestamp": "06/05/25 10:30 AM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, the results are in, and they are excellent. Your strict adherence post-illness has paid off. Your ApoB has dropped from 130 to 95 mg/dL, and your average resting BP is now 125/80. This is a huge win and a direct result of the protocols we've implemented.",
+        "attachment": "blood_panel_report_jun2025.pdf"
+      },
+      {
+        "id": 149,
+        "timestamp": "06/05/25 10:32 AM",
+        "sender": "Advik",
+        "message": "This is fantastic, Rohan! Your Whoop data reflects this too—your average HRV has trended up by 8% over the last month. The system is becoming more resilient."
+      },
+      {
+        "id": 150,
+        "timestamp": "06/05/25 10:35 AM",
+        "sender": "Carla",
+        "message": "Wonderful news! Your CGM data is showing much better stability, even on high-stress days. The nutritional changes are clearly working."
+      },
+      {
+        "id": 151,
+        "timestamp": "06/05/25 10:45 AM",
+        "sender": "Rohan Patel",
+        "message": "Wow. 95 mg/dL. I genuinely wasn't sure that was possible without medication. This is incredible. Thank you, team."
+      },
+      {
+        "id": 152,
+        "timestamp": "06/05/25 10:50 AM",
+        "sender": "Neel",
+        "message": "This is the result of your hard work, Rohan. This is what we mean by closing the gap between healthspan and lifespan. You've taken a massive step in securing your long-term health."
+      },
+      {
+        "id": 153,
+        "timestamp": "06/05/25 11:00 AM",
+        "sender": "Rohan Patel",
+        "message": "This is great. Now that we have ApoB under control, what is the next bottleneck to focus on for longevity? Should we be looking at my inflammation markers more closely?"
+      },
+      {
+        "id": 154,
+        "timestamp": "06/05/25 11:15 AM",
+        "sender": "Dr. Warren",
+        "message": "Excellent question. Your hs-CRP also dropped, but it's still slightly higher than optimal. That's our next target. We'll focus on fine-tuning anti-inflammatory nutrition and optimizing sleep to bring it down further."
+      },
+      {
+        "id": 155,
+        "timestamp": "06/06/25 08:00 PM",
+        "sender": "Rohan Patel",
+        "message": "I've been reading about autophagy and its role in cellular cleanup. Is intermittent fasting something we should incorporate to target inflammation?"
+      },
+      {
+        "id": 156,
+        "timestamp": "06/06/25 08:30 PM",
+        "sender": "Carla",
+        "message": "We can definitely explore time-restricted eating. Let's start with a simple 12-hour fast overnight and see how your body and CGM data respond before trying longer durations."
+      },
+      {
+        "id": 157,
+        "timestamp": "06/09/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "How does Zone 2 cardio specifically impact hs-CRP? Is it more effective than high-intensity work for inflammation?"
+      },
+      {
+        "id": 158,
+        "timestamp": "06/09/25 09:30 AM",
+        "sender": "Advik",
+        "message": "Zone 2 training enhances mitochondrial function and reduces oxidative stress, which are key drivers of systemic inflammation. Overtraining in high-intensity zones can actually increase hs-CRP temporarily, so consistency in Zone 2 is a powerful anti-inflammatory tool."
+      },
+      {
+        "id": 159,
+        "timestamp": "06/11/25 07:00 PM",
+        "sender": "Rohan Patel",
+        "message": "I have a critical business dinner tonight at a steakhouse. The menu is a minefield of saturated fat and alcohol. This will ruin my progress. What should I do?"
+      },
+      {
+        "id": 160,
+        "timestamp": "06/11/25 07:15 PM",
+        "sender": "Carla",
+        "message": "Rohan, one meal won't undo months of progress. This is about building a resilient system, not a fragile one. Choose the best option available—perhaps a lean cut of fish or steak, double vegetables instead of potatoes. Enjoy the dinner, and we'll get right back on track tomorrow. Consistency over perfection."
+      },
+      {
+        "id": 161,
+        "timestamp": "06/11/25 07:20 PM",
+        "sender": "Rohan Patel",
+        "message": "Okay, that helps frame it better. I'll aim for the grilled salmon and a side salad. Still feels like a compromise."
+      },
+      {
+        "id": 162,
+        "timestamp": "06/12/25 07:30 AM",
+        "sender": "Rohan Patel",
+        "message": "Checked my CGM this morning. Saw a bit of a glucose spike after dinner as expected, but not as bad as I feared. Woke up feeling okay."
+      },
+      {
+        "id": 163,
+        "timestamp": "06/12/25 08:00 AM",
+        "sender": "Carla",
+        "message": "See? Your body is more metabolically flexible now. It can handle a deviation and bounce back quickly. That's the real win."
+      },
+      {
+        "id": 164,
+        "timestamp": "06/13/25 09:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Reading about the impact of sleep on Lp(a) and ApoB. Is there a direct link or is it more about downstream hormonal effects?"
+      },
+      {
+        "id": 165,
+        "timestamp": "06/13/25 09:30 PM",
+        "sender": "Dr. Warren",
+        "message": "The link is significant. Poor sleep disrupts cortisol and insulin regulation, which directly impacts lipid metabolism and inflammation, affecting both ApoB and hs-CRP. Prioritizing sleep is one of the most effective levers we have."
+      },
+      {
+        "id": 166,
+        "timestamp": "06/16/25 08:30 AM",
+        "sender": "Rohan Patel",
+        "message": "My Whoop strain for yesterday's Zone 2 session was lower than usual, even though I did the full 45 minutes. Does that mean I'm getting fitter?"
+      },
+      {
+        "id": 167,
+        "timestamp": "06/16/25 09:00 AM",
+        "sender": "Rachel",
+        "message": "Exactly. A lower strain for the same workload is a classic sign of improved cardiovascular efficiency. Your heart doesn't have to work as hard to do the same job. Great work."
+      },
+      {
+        "id": 168,
+        "timestamp": "06/18/25 01:00 PM",
+        "sender": "Rohan Patel",
+        "message": "A colleague mentioned he takes a baby aspirin daily for heart health. Given my previous ApoB levels, is this a strategy we should consider?"
+      },
+      {
+        "id": 169,
+        "timestamp": "06/18/25 01:30 PM",
+        "sender": "Dr. Warren",
+        "message": "Aspirin for primary prevention is a nuanced topic and no longer broadly recommended without a specific high-risk profile. Your current progress with lifestyle changes is excellent, so it's not indicated for you at this time. We'll continue to monitor."
+      },
+      {
+        "id": 170,
+        "timestamp": "06/20/25 08:00 AM",
+        "sender": "Carla",
+        "message": "Rohan, your MyFitnessPal logs have been incredibly consistent. To further target inflammation, let's try swapping one of your weekly protein sources for fatty fish like salmon or mackerel."
+      },
+      {
+        "id": 171,
+        "timestamp": "06/20/25 08:05 AM",
+        "sender": "Rohan Patel",
+        "message": "Good idea. I'll add that to my grocery order."
+      },
+      {
+        "id": 172,
+        "timestamp": "06/23/25 07:00 PM",
+        "sender": "Rohan Patel",
+        "message": "I'm traveling to London next week for work. Any tips on managing the time zone shift to protect my sleep and HRV?"
+      },
+      {
+        "id": 173,
+        "timestamp": "06/23/25 07:30 PM",
+        "sender": "Advik",
+        "message": "Absolutely. Let's start adjusting your sleep schedule two days before you fly. I'll send you a protocol for light exposure, meal timing, and a targeted supplement schedule to minimize jet lag."
+      },
+      {
+        "id": 174,
+        "timestamp": "06/25/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Now that my BP is stable, do I need to be as strict with sodium intake?"
+      },
+      {
+        "id": 175,
+        "timestamp": "06/25/25 09:30 AM",
+        "sender": "Carla",
+        "message": "We can be slightly more flexible, but since you are still managing hypertension, keeping sodium from processed foods low remains important. Focusing on potassium-rich foods will also help maintain this balance."
+      },
+      {
+        "id": 176,
+        "timestamp": "06/27/25 10:00 AM",
+        "sender": "Rachel",
+        "message": "Rohan, since you're now well-adapted to Zone 2, we can consider adding one day of strength training per week to improve metabolic health and body composition. I've added a foundational workout to your Trainerize app to review."
+      },
+      {
+        "id": 177,
+        "timestamp": "06/27/25 10:15 AM",
+        "sender": "Rohan Patel",
+        "message": "I'm ready for that. Let's do it. I'll check out the routine this evening."
+      },
+      {
+        "id": 178,
+        "timestamp": "06/30/25 05:00 PM",
+        "sender": "Ruby",
+        "message": "Rohan, just wrapping up for the month. Looking at your data, it's been a phenomenal month of progress. The whole team is thrilled. Keep up the amazing work."
+      },
+      {
+        "id": 179,
+        "timestamp": "06/30/25 05:10 PM",
+        "sender": "Rohan Patel",
+        "message": "Thanks, Ruby. It feels like a real turning point. For the first time, I feel like I'm in control of my health, not just reacting to it."
+      },
+      {
+        "id": 180,
+        "timestamp": "07/01/25 09:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, with your core metrics stable, the next layer is fine-tuning metabolic health. I'm recommending a Continuous Glucose Monitor (CGM) to optimize your diet for cognitive performance and stable energy."
+      },
+      {
+        "id": 181,
+        "timestamp": "07/01/25 09:01 AM",
+        "sender": "Rohan Patel",
+        "message": "I'm on board. Let's do it. On a related note, I'd like to schedule a full-body MRI for proactive screening."
+      },
+      {
+        "id": 182,
+        "timestamp": "07/01/25 10:00 AM",
+        "sender": "Ruby",
+        "message": "Excellent. I've ordered the CGM, it will arrive tomorrow. And I'll coordinate with our partner clinic for the MRI and get back to you with options."
+      },
+      {
+        "id": 183,
+        "timestamp": "07/02/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Got the CGM. Ready for setup."
+      },
+      {
+        "id": 184,
+        "timestamp": "07/02/25 09:00 AM",
+        "sender": "Ruby",
+        "message": "Great! Carla will walk you through the application and calibration process now."
+      },
+      {
+        "id": 185,
+        "timestamp": "07/03/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Okay, CGM is active. Had my usual oatmeal for breakfast."
+      },
+      {
+        "id": 186,
+        "timestamp": "07/03/25 11:00 AM",
+        "sender": "Carla",
+        "message": "Fascinating data from the CGM this morning. That glucose spike to 160 mg/dL is the reason you feel an energy crash around 11 AM."
+      },
+      {
+        "id": 187,
+        "timestamp": "07/03/25 11:01 AM",
+        "sender": "Carla",
+        "message": "Tomorrow, let's run an experiment: switch to eggs and avocado and we'll compare the glucose curves directly."
+      },
+      {
+        "id": 188,
+        "timestamp": "07/03/25 12:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Understood. That's a much bigger spike than I would have imagined from something 'healthy' like oatmeal."
+      },
+      {
+        "id": 189,
+        "timestamp": "07/04/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Breakfast was eggs and avocado today. Let's see what the data says."
+      },
+      {
+        "id": 190,
+        "timestamp": "07/04/25 11:00 AM",
+        "sender": "Carla",
+        "message": "The results are clear. Your glucose peaked at only 115 mg/dL and returned to baseline smoothly. No crash today, I suspect?",
+        "attachment": "cgm_comparison_chart.png"
+      },
+      {
+        "id": 191,
+        "timestamp": "07/04/25 11:05 AM",
+        "sender": "Rohan Patel",
+        "message": "No, energy has been stable all morning. The immediate feedback is powerful."
+      },
+      {
+        "id": 192,
+        "timestamp": "07/05/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Reading about how glycemic variability impacts inflammation. Is that the main reason to avoid spikes?"
+      },
+      {
+        "id": 193,
+        "timestamp": "07/05/25 08:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Precisely. Large glucose spikes and the subsequent crashes drive oxidative stress and inflammation (raising hs-CRP), which is what we want to minimize for long-term cardiovascular health."
+      },
+      {
+        "id": 194,
+        "timestamp": "07/07/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I had a piece of fruit and saw a small spike to 130. Is that bad? Getting a bit obsessed with the number."
+      },
+      {
+        "id": 195,
+        "timestamp": "07/07/25 09:00 AM",
+        "sender": "Carla",
+        "message": "That's a normal response. The goal isn't a flat line, but to understand trends and avoid large, sustained spikes over 140 mg/dL. Let's focus on the average and time-in-range, not every single data point."
+      },
+      {
+        "id": 196,
+        "timestamp": "07/09/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I've decided to try a 3-day water-only fast for autophagy. Started this morning."
+      },
+      {
+        "id": 197,
+        "timestamp": "07/09/25 06:00 PM",
+        "sender": "Advik",
+        "message": "Rohan, checking in. Your Whoop data shows your system is under immense strain. HRV has plummeted and RHR is elevated. Did something change?"
+      },
+      {
+        "id": 198,
+        "timestamp": "07/09/25 07:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Yes, I'm doing a 3-day water-only fast."
+      },
+      {
+        "id": 199,
+        "timestamp": "07/09/25 08:00 PM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, we need to pause this fast. While fasting has benefits, initiating a multi-day water fast impulsively during a high-stress work week puts a massive strain on your system, which your Whoop data is clearly showing."
+      },
+      {
+        "id": 200,
+        "timestamp": "07/09/25 09:00 PM",
+        "sender": "Carla",
+        "message": "This kind of stressor needs to be planned for a low-stress period, with a specific protocol to support your body. Let's break the fast gently with some bone broth and plan this properly for a future date."
+      },
+      {
+        "id": 201,
+        "timestamp": "07/09/25 10:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Okay, I understand. I guess I got overeager. I'll stop the fast now."
+      },
+      {
+        "id": 202,
+        "timestamp": "07/10/25 08:00 AM",
+        "sender": "Advik",
+        "message": "Your HRV is already starting to recover this morning after reintroducing nutrition. A good example of data guiding real-time decisions."
+      },
+      {
+        "id": 203,
+        "timestamp": "07/11/25 07:00 AM",
+        "sender": "Ruby",
+        "message": "Hi Rohan, I've managed to book your full-body MRI at Precision Diagnostics for July 22nd at 9 AM. I'm sending the calendar invite and prep details now.",
+        "attachment": "mri_prep_guide.pdf"
+      },
+      {
+        "id": 204,
+        "timestamp": "07/11/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Thanks, Ruby. Confirmed."
+      },
+      {
+        "id": 205,
+        "timestamp": "07/12/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Now that I have CGM data, should I adjust my Zone 2 cardio timing around meals?"
+      },
+      {
+        "id": 206,
+        "timestamp": "07/12/25 09:00 AM",
+        "sender": "Rachel",
+        "message": "Great question. Performing Zone 2 an hour or two after a meal can help blunt the glucose spike and improve insulin sensitivity. Let's try that on your next cardio day."
+      },
+      {
+        "id": 207,
+        "timestamp": "07/14/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "What's the ideal 'time-in-range' for the CGM that we're aiming for?"
+      },
+      {
+        "id": 208,
+        "timestamp": "07/14/25 08:00 AM",
+        "sender": "Carla",
+        "message": "For optimal health, we aim for >90% of the day between 70-140 mg/dL, and less than 1% of the time above 180 mg/dL."
+      },
+      {
+        "id": 209,
+        "timestamp": "07/15/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "My sleep data on Whoop seems to correlate with next-day glucose stability. Is that a known link?"
+      },
+      {
+        "id": 210,
+        "timestamp": "07/15/25 10:00 AM",
+        "sender": "Advik",
+        "message": "It's one of the strongest links we see. Just one night of poor sleep can temporarily reduce insulin sensitivity by up to 30%. Sleep is a non-negotiable for metabolic health."
+      },
+      {
+        "id": 211,
+        "timestamp": "07/17/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I'm trying to incorporate more anti-inflammatory foods. Besides salmon, what are some other powerful options?"
+      },
+      {
+        "id": 212,
+        "timestamp": "07/17/25 09:00 AM",
+        "sender": "Carla",
+        "message": "Turmeric, ginger, berries, and dark leafy greens are all excellent. Try adding a handful of spinach to your eggs or a turmeric-ginger tea in the afternoon."
+      },
+      {
+        "id": 213,
+        "timestamp": "07/19/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "The team mentioned metabolic flexibility. How is that measured or observed in the data?"
+      },
+      {
+        "id": 214,
+        "timestamp": "07/19/25 08:00 AM",
+        "sender": "Advik",
+        "message": "We see it in a few ways: how quickly your glucose returns to baseline after a meal, a stable HRV, and your ability to perform workouts in a fasted state without a major energy crash. Your metrics are all trending in the right direction."
+      },
+      {
+        "id": 215,
+        "timestamp": "07/21/25 06:00 PM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, as we approach your MRI, remember this is a proactive screening. Whatever we find, it's just more data to inform our strategy."
+      },
+      {
+        "id": 216,
+        "timestamp": "07/21/25 07:00 PM",
+        "sender": "Rohan Patel",
+        "message": "Appreciate that, Dr. Warren. Feeling more empowered than anxious about it now."
+      },
+      {
+        "id": 217,
+        "timestamp": "07/22/25 11:00 AM",
+        "sender": "Ruby",
+        "message": "Hi Rohan, we've received the radiologist's report from your MRI. Dr. Warren is reviewing it and will share the results with you this afternoon."
+      },
+      {
+        "id": 218,
+        "timestamp": "07/22/25 02:00 PM",
+        "sender": "Dr. Warren",
+        "message": "Rohan, I've reviewed the full MRI report. The scan is completely clear. No evidence of any tumors or significant abnormalities. This is excellent news.",
+        "attachment": "mri_results_summary.pdf"
+      },
+      {
+        "id": 219,
+        "timestamp": "07/22/25 02:05 PM",
+        "sender": "Rohan Patel",
+        "message": "That's a massive weight off my mind. Thank you for pushing for this level of proactive care."
+      },
+      {
+        "id": 220,
+        "timestamp": "07/22/25 03:00 PM",
+        "sender": "Neel",
+        "message": "This is the essence of what we do, Rohan. We're not just waiting for problems to appear; we're actively ruling them out, giving you the confidence to focus on performance. This is how you build a long, high-performing healthspan."
+      },
+      {
+        "id": 221,
+        "timestamp": "07/25/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Now that the MRI is clear and lipids are controlled, what's the next frontier for optimization? Brain health?"
+      },
+      {
+        "id": 222,
+        "timestamp": "07/25/25 09:00 AM",
+        "sender": "Dr. Warren",
+        "message": "An excellent focus. We can start by optimizing for cognitive performance using your CGM data to ensure stable brain fuel, and we can discuss specific supplements like omega-3s and creatine that have strong evidence for cognitive support."
+      },
+      {
+        "id": 223,
+        "timestamp": "07/28/25 07:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I'm finding the desk mobility routines from Rachel are really helping with afternoon stiffness during long calls."
+      },
+      {
+        "id": 224,
+        "timestamp": "07/28/25 08:00 AM",
+        "sender": "Rachel",
+        "message": "Glad to hear it! Consistency with those small movements makes a huge difference in preventing aches and maintaining energy levels throughout the day."
+      },
+      {
+        "id": 225,
+        "timestamp": "07/30/25 05:00 PM",
+        "sender": "Ruby",
+        "message": "Rohan, as we close out July, just wanted to say it's been another fantastic month of progress and proactive steps. Well done."
+      },
+      {
+        "id": 226,
+        "timestamp": "08/01/25 09:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Team, I have a critical keynote speech at the APAC FinTech summit in Seoul in exactly 7 days. This is a huge opportunity. I need a 'Peak Performance Protocol' to ensure I'm at my absolute best."
+      },
+      {
+        "id": 227,
+        "timestamp": "08/01/25 09:05 AM",
+        "sender": "Neel",
+        "message": "This is the perfect application of everything we've built, Rohan. Consider it done. We'll design a comprehensive protocol to optimize you for the big day."
+      },
+      {
+        "id": 228,
+        "timestamp": "08/01/25 10:00 AM",
+        "sender": "Rohan Patel",
+        "message": "I've been reading about execs using nootropics or low-dose beta-blockers to manage public speaking anxiety and enhance focus. Is this something we should consider adding to the stack?"
+      },
+      {
+        "id": 229,
+        "timestamp": "08/01/25 10:15 AM",
+        "sender": "Dr. Warren",
+        "message": "I strongly advise against introducing new, un-tested compounds like that, especially under pressure. They can have unpredictable side effects. Our goal is to enhance your natural resilience, not create a dependency. We can achieve a better, more sustainable result with a data-driven protocol."
+      },
+      {
+        "id": 230,
+        "timestamp": "08/01/25 11:00 AM",
+        "sender": "Advik",
+        "message": "Agreed. I'm building a protocol focused on maximizing your Whoop recovery score for the morning of the speech. It will include specific breathwork exercises to manage your nervous system state and targeted light exposure to solidify your circadian rhythm."
+      },
+      {
+        "id": 231,
+        "timestamp": "08/01/25 11:05 AM",
+        "sender": "Carla",
+        "message": "Nutritionally, we'll focus on stable energy. I'll provide a meal plan that prioritizes clean proteins, healthy fats, and low-glycemic carbs to keep your CGM line steady and your brain fueled."
+      },
+      {
+        "id": 232,
+        "timestamp": "08/01/25 11:10 AM",
+        "sender": "Rachel",
+        "message": "And from my end, we'll implement a 'deload' week in Trainerize. We're switching to low-intensity mobility and recovery sessions only. This reduces physical stress, allowing your body to allocate all resources to recovery and cognitive function."
+      },
+      {
+        "id": 233,
+        "timestamp": "08/01/25 12:00 PM",
+        "sender": "Ruby",
+        "message": "Rohan, I've consolidated everything into a single 'Peak Performance Protocol' document and attached it here. It's also uploaded to your Elyx dashboard.",
+        "attachment": "Peak_Performance_Protocol_Seoul.pdf"
+      },
+      {
+        "id": 234,
+        "timestamp": "08/01/25 12:05 PM",
+        "sender": "Rohan Patel",
+        "message": "This is exactly what I was hoping for. A clear, integrated strategy. Thank you. I'm all in."
+      },
+      {
+        "id": 235,
+        "timestamp": "08/03/25 08:00 AM",
+        "sender": "Advik",
+        "message": "Good morning, Rohan. Your Whoop recovery is already trending up to 85% after just two days of the deload protocol. Your system is responding perfectly."
+      },
+      {
+        "id": 236,
+        "timestamp": "08/03/25 08:30 AM",
+        "sender": "Rohan Patel",
+        "message": "I can feel it. Woke up feeling more refreshed. The breathwork exercises are surprisingly effective at calming my pre-presentation jitters."
+      },
+      {
+        "id": 237,
+        "timestamp": "08/05/25 09:00 PM",
+        "sender": "Rohan Patel",
+        "message": "The pressure from work ahead of this trip is immense. Finding it hard to stick to the meal timings perfectly."
+      },
+      {
+        "id": 238,
+        "timestamp": "08/05/25 09:30 PM",
+        "sender": "Carla",
+        "message": "Don't aim for perfection. Just do your best to eat at regular intervals. The consistency is more important than hitting the exact minute. You're doing great."
+      },
+      {
+        "id": 239,
+        "timestamp": "08/06/25 11:30 PM",
+        "sender": "Rohan Patel",
+        "message": "Team, I messed up. Had a terrible night of eating. The work stress got to me and I just gave in to high-sugar comfort food. Feeling guilty. My CGM graph is a disaster."
+      },
+      {
+        "id": 240,
+        "timestamp": "08/06/25 11:45 PM",
+        "sender": "Carla",
+        "message": "That's okay, Rohan, it happens. The stress got to you. It's just one data point. Do not feel guilty. The most important thing is what you do next. Let's focus on the flight protocol. Hydrate well, and we'll get right back on track upon landing in Seoul."
+      },
+      {
+        "id": 241,
+        "timestamp": "08/07/25 07:00 AM",
+        "sender": "Advik",
+        "message": "Your Whoop recovery took a hit as expected, down to 45%. But that's okay, this is exactly why we built a buffer. The protocol is designed to be resilient to these real-world events. Stick to the plan today and we'll see that number bounce back."
+      },
+      {
+        "id": 242,
+        "timestamp": "08/07/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Okay. Thank you for the perspective. On my way to the airport now. Focusing on hydration and the flight protocol."
+      },
+      {
+        "id": 243,
+        "timestamp": "08/07/25 03:00 PM",
+        "sender": "Ruby",
+        "message": "Have a safe flight, Rohan. The team is monitoring your data and is here if you need anything upon arrival."
+      },
+      {
+        "id": 244,
+        "timestamp": "08/08/25 08:00 AM",
+        "sender": "Rohan Patel",
+        "message": "Just gave the keynote. It was a huge success. I felt incredible. Sharp, calm, and resilient, even with the pressure. My peers were complaining about jet lag and fatigue, and I felt ready to go. This is a real competitive advantage."
+      },
+      {
+        "id": 245,
+        "timestamp": "08/08/25 08:05 AM",
+        "sender": "Rohan Patel",
+        "message": "Heading to the airport lounge, but wanted to send this to you, Neel, and the entire team. This protocol worked beyond my expectations. I fully understand the philosophy now. This isn't just about avoiding a heart attack; it's about elite performance."
+      },
+      {
+        "id": 246,
+        "timestamp": "08/08/25 08:15 AM",
+        "sender": "Neel",
+        "message": "Rohan, this is the win we've all been working towards. We are incredibly proud of you. You've seen firsthand how actively managing your health translates directly into a professional edge. This is what it's all about."
+      },
+      {
+        "id": 247,
+        "timestamp": "08/08/25 08:30 AM",
+        "sender": "Rohan Patel",
+        "message": "Let's get my Q3 diagnostics on the calendar. I want to plan them around my Q4 sales targets to ensure I'm at my peak when it matters most for the business."
+      },
+      {
+        "id": 248,
+        "timestamp": "08/08/25 09:00 AM",
+        "sender": "Ruby",
+        "message": "I love this proactive approach. I'll coordinate with your EA and our team to align your next diagnostic cycle with your Q4 goals. Congratulations again, Rohan."
+      },
+      {
+        "id": 249,
+        "timestamp": "08/10/25 10:00 AM",
+        "sender": "Dr. Warren",
+        "message": "Welcome back to Singapore, Rohan. Your data from the trip was fascinating. Even with the pre-flight lapse, your system rebounded faster than we've ever seen. A true sign of your increased resilience."
+      },
+      {
+        "id": 250,
+        "timestamp": "08/10/25 10:30 AM",
+        "sender": "Rohan Patel",
+        "message": "It feels different. The data is no longer a source of anxiety, but a tool for performance. I'm excited for what's next."
+      }
+
+ ]
+

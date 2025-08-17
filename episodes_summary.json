@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "title": "Onboarding & Initial Friction",
+      "date_range": "January, Day 8 - January, Day 31",
+      "startTimestamp": "2025-01-08T21:30:00+08:00",
+      "endTimestamp": "2025-01-31T22:25:00+08:00",
+      "summary": "A stressed and time-poor Rohan struggles with initial onboarding tasks, forcing the Elyx team to adapt their approach to build early trust.",
+      "trigger": "The episode was triggered by Rohan's first message (ID 1) about his high blood pressure and feeling 'completely drained and frustrated,' accompanied by a Garmin screenshot showing 'Unproductive' stress.",
+      "friction_points": [
+        "Rohan canceled the first scheduled onboarding call due to an 'urgent work fire.' (ID 10)",
+        "He canceled the rescheduled call as well, citing a last-minute client dinner. (ID 18)",
+        "He pushed back against the request to log food in MyFitnessPal, stating, 'I don't have time to weigh my food and log it.' (ID 20)"
+      ],
+      "outcome": "The Elyx team successfully navigated the friction by showing flexibility. The concierge, Ruby, offered to work around Rohan's 'fire-proof' schedule, and the nutritionist, Carla, pivoted from detailed logging to simple photo-based meal tracking, which Rohan agreed to. The team held a successful onboarding call on January 27th, establishing a foundation of trust.",
+      "persona_change": {
+        "before_state": "Rohan was frustrated, overwhelmed by work, and skeptical about his ability to integrate the program into his chaotic schedule.",
+        "after_state": "After the team adapted to his needs and held the initial call, he felt heard and became cautiously optimistic, though he still found the data 'daunting.'"
+      }
+    },
+    {
+      "id": 2,
+      "title": "The ApoB Wake-Up Call",
+      "date_range": "March, Day 2 - March, Day 22",
+      "startTimestamp": "2025-03-02T09:00:00+08:00",
+      "endTimestamp": "2025-03-22T07:30:00+08:00",
+      "summary": "The first blood panel reveals a dangerously high ApoB level, causing initial panic but ultimately galvanizing Rohan and focusing the program on a clear, critical target.",
+      "trigger": "Dr. Warren delivered the results of the March 1st blood panel, which showed a 'significantly elevated' ApoB level of 130 mg/dL, which he identified as the new 'primary focus for cardiovascular risk reduction.'",
+      "friction_points": [
+        "Rohan had an initial panic reaction to the news: '130? Everything I'm reading says that's terrible. Is my current diet making things worse? Do I need to be on a statin right now?' (ID 90)",
+        "He struggled with adherence due to work pressure: 'I've barely managed my steps this week—work is crushing me. I may have to compromise on physio again.' (ID 98)",
+        "He found it difficult to stick to the diet while traveling for business in Jakarta. (ID 100)"
+      ],
+      "outcome": "The Elyx team reframed the high ApoB from a failure to an actionable data point. Neel positioned it as a win for proactive screening, and the team provided concrete strategies for diet (soluble fiber), exercise, and travel. Advik connected dietary choices directly to HRV data, reinforcing the cause-and-effect relationship for Rohan.",
+      "persona_change": {
+        "before_state": "Initially panicked and anxious, feeling his health was spiraling out of control and questioning the current methods.",
+        "after_state": "His anxiety was channeled into motivated action. He felt empowered with a clear target (ApoB) and became more determined after seeing the direct link between his choices and his biometric data."
+      }
+    },
+    {
+      "id": 3,
+      "title": "Advanced Wearables & The Zone 2 Discipline",
+      "date_range": "April, Day 2 - April, Day 16",
+      "startTimestamp": "2025-04-02T08:30:00+08:00",
+      "endTimestamp": "2025-04-16T08:10:00+08:00",
+      "summary": "Rohan receives a Whoop strap and a VO2 Max-derived Zone 2 cardio prescription, but his high-achiever mindset clashes with the 'go slow to go fast' discipline.",
+      "trigger": "The Elyx team leveled up the data collection by shipping Rohan a Whoop strap for more granular tracking and scheduling a VO2 Max test to establish precise training zones.",
+      "friction_points": [
+        "Rohan questioned the choice of technology: 'Why Whoop and not Oura? I've read a lot about the Oura ring...' (ID 123)",
+        "He misunderstood and overrode the Zone 2 training protocol: 'Honestly, Zone 2 felt easy so I picked up the pace in the last 20 minutes.' (ID 129)",
+        "He was confused by a low recovery score on Whoop when he felt fine subjectively: 'recovery is in the red at 22%, but I feel fine. What gives?' (ID 132)"
+      ],
+      "outcome": "The team coached Rohan through these new concepts. Advik explained the rationale for Whoop, analyzed Rohan's heart rate data to show him he'd left Zone 2, and explained that low objective recovery is a leading indicator of physiological strain. Rohan learned to trust the data and the discipline of the prescribed protocols over his subjective feelings.",
+      "persona_change": {
+        "before_state": "Inquisitive but prone to overriding the protocol based on his own judgment and his ingrained desire to 'push hard.'",
+        "after_state": "Began to respect the discipline of data-driven protocols, learning that 'easy' workouts serve a specific physiological purpose and that objective data can reveal stress his body is under before he consciously feels it."
+      }
+    },
+    {
+      "id": 4,
+      "title": "The Turnaround: Crushing ApoB",
+      "date_range": "June, Day 2 - June, Day 30",
+      "startTimestamp": "2025-06-02T09:00:00+08:00",
+      "endTimestamp": "2025-06-30T17:10:00+08:00",
+      "summary": "The second blood panel reveals a massive drop in ApoB, validating the team's strategy and Rohan's hard work, leading to a profound mindset shift from reactive anxiety to proactive control.",
+      "trigger": "The scheduling of the second quarterly blood panel, with Rohan expressing nervousness given the last results: 'Honestly, a bit nervous given the last results.' (ID 145)",
+      "friction_points": [
+        "A moment of anxiety about a business dinner threatening his progress: 'The menu is a minefield of saturated fat and alcohol. This will ruin my progress. What should I do?' (ID 159)"
+      ],
+      "outcome": "The blood results were a huge success: ApoB dropped from 130 to 95 mg/dL. The entire team celebrated the win, reinforcing the value of his efforts. Carla coached him through the dinner, teaching a lesson in resilience over perfection. The success marked a major turning point, and the focus shifted to the next bottleneck: inflammation (hs-CRP).",
+      "persona_change": {
+        "before_state": "Nervous and feeling that his new habits were fragile, fearing that a single misstep could 'ruin' his progress.",
+        "after_state": "Vindicated, relieved, and empowered. He explicitly stated the change: 'For the first time, I feel like I'm in control of my health, not just reacting to it.' This marked a fundamental shift to ownership and proactive health management."
+      }
+    },
+    {
+      "id": 5,
+      "title": "The CGM Experiment & An Impulsive Fast",
+      "date_range": "July, Day 1 - July, Day 30",
+      "startTimestamp": "2025-07-01T09:00:00+08:00",
+      "endTimestamp": "2025-07-30T17:00:00+08:00",
+      "summary": "Rohan uses a CGM for immediate feedback on nutrition but, feeling overconfident, impulsively starts a multi-day fast that backfires and requires team intervention.",
+      "trigger": "Dr. Warren recommended a Continuous Glucose Monitor (CGM) to 'fine-tuning metabolic health' and optimize diet for cognitive performance.",
+      "friction_points": [
+        "Rohan impulsively started a multi-day water fast based on his own research, without consulting the team: 'I've decided to try a 3-day water-only fast for autophagy. Started this morning.' (ID 196)"
+      ],
+      "outcome": "The oatmeal vs. eggs experiment with the CGM provided a powerful lesson in personalized nutrition. When his impulsive fast caused his Whoop metrics to crash, the team intervened, using the data to show him the immense strain on his system and convincing him to stop. This taught a lesson about the difference between data-informed decisions and data-fueled impulsiveness. The episode concluded with a clear full-body MRI result, further boosting his confidence.",
+      "persona_change": {
+        "before_state": "Excited and empowered by the new CGM data, but becoming overconfident and prone to impulsive actions based on his own research.",
+        "after_state": "Humbled and more respectful of the team's role in planning interventions. He learned that expert guidance is critical to apply data safely and effectively, admitting, 'I guess I got overeager.'"
+      }
+    },
+    {
+      "id": 6,
+      "title": "The Peak Performance Protocol",
+      "date_range": "August, Day 1 - August, Day 10",
+      "startTimestamp": "2025-08-01T09:00:00+08:00",
+      "endTimestamp": "2025-08-10T10:30:00+08:00",
+      "summary": "Rohan requests a protocol for a high-stakes keynote, and after a brief stumble, successfully leverages the Elyx system to achieve peak performance, solidifying his belief in the program as a competitive advantage.",
+      "trigger": "Rohan's request for a 'Peak Performance Protocol' for a critical keynote speech at the APAC FinTech summit in Seoul in 7 days.",
+      "friction_points": [
+        "He was tempted by a quick fix, asking about 'nootropics or low-dose beta-blockers to manage public speaking anxiety.' (ID 228)",
+        "He had a pre-trip lapse due to work stress: 'Team, I messed up. Had a terrible night of eating... My CGM graph is a disaster.' (ID 239)"
+      ],
+      "outcome": "The team steered him away from un-tested drugs towards a holistic, data-driven protocol. They coached him through his stress-eating lapse with empathy, framing it as a single data point on a resilient system. The protocol was a resounding success; Rohan felt 'sharp, calm, and resilient' and delivered a successful keynote. He fully embraced the philosophy, recognizing health management as a tool for 'elite performance' and a 'real competitive advantage.'",
+      "persona_change": {
+        "before_state": "Proactively seeking to optimize for a specific event, but still tempted by 'biohacking' shortcuts and vulnerable to stress-induced lapses.",
+        "after_state": "Fully transformed. He views his health and its corresponding data not as a source of anxiety, but as a strategic tool to be deployed for peak professional performance, stating 'The data is no longer a source of anxiety, but a tool for performance.'"
+      }
+    }
+  ]
+  
